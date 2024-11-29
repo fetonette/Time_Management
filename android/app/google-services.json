@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795680388639",
+    "project_id": "time-management-firebase",
+    "storage_bucket": "time-management-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795680388639:android:279f1730554fd42cc0472a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9ppY08nW2BkQ2YKLglPR99LZ_7ufzzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
